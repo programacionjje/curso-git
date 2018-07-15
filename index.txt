@@ -1,1 +1,2 @@
-hola mundo, estoy aprendiendo git
+hola mundo: vamos realizar un merge.
+comentario uno

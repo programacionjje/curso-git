@@ -1,2 +1,0 @@
-hola mundo: vamos realizar un merge.
-comentario uno
